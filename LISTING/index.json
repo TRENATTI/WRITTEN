@@ -62,6 +62,22 @@
     }
   },
   "users": {
+    "user_1008194731": {
+      "associatedAccounts": {
+        "discordAccounts": "",
+        "robloxAccounts": "1008194731"
+      },
+      "latestUsername": "dreamsVizion",
+      "permanent": true
+    },
+    "user_1009023650": {
+      "associatedAccounts": {
+        "discordAccounts": "",
+        "robloxAccounts": "1009023650"
+      },
+      "latestUsername": "MrForeverWoodland",
+      "permanent": true
+    },
     "user_11055770": {
       "associatedAccounts": {
         "discordAccounts": "212339099120566273",
@@ -78,6 +94,46 @@
       "latestUsername": "IIDevOmqII",
       "permanent": true
     },
+    "user_1188965049": {
+      "associatedAccounts": {
+        "discordAccounts": "",
+        "robloxAccounts": "1188965049"
+      },
+      "latestUsername": "Jack2Hard",
+      "permanent": true
+    },
+    "user_1262552": {
+      "associatedAccounts": {
+        "discordAccounts": "",
+        "robloxAccounts": "1262552"
+      },
+      "latestUsername": "e2s_demon",
+      "permanent": true
+    },
+    "user_1480123": {
+      "associatedAccounts": {
+        "discordAccounts": "",
+        "robloxAccounts": "1480123"
+      },
+      "latestUsername": "Bisho",
+      "permanent": true
+    },
+    "user_1607509450": {
+      "associatedAccounts": {
+        "discordAccounts": "",
+        "robloxAccounts": "1607509450"
+      },
+      "latestUsername": "SwiftHunter999",
+      "permanent": true
+    },
+    "user_16585128": {
+      "associatedAccounts": {
+        "discordAccounts": "",
+        "robloxAccounts": "16585128"
+      },
+      "latestUsername": "Asceno",
+      "permanent": true
+    },
     "user_16689252": {
       "associatedAccounts": {
         "discordAccounts": "670129647115304960",
@@ -92,6 +148,14 @@
         "robloxAccounts": "17036348"
       },
       "latestUsername": "Akalioun",
+      "permanent": true
+    },
+    "user_17426839": {
+      "associatedAccounts": {
+        "discordAccounts": "",
+        "robloxAccounts": "17426839"
+      },
+      "latestUsername": "H4teHouse",
       "permanent": true
     },
     "user_1752947930": {
@@ -116,6 +180,38 @@
         "robloxAccounts": "20451682"
       },
       "latestUsername": "Heimdir",
+      "permanent": true
+    },
+    "user_21228797": {
+      "associatedAccounts": {
+        "discordAccounts": "",
+        "robloxAccounts": "21228797"
+      },
+      "latestUsername": "Yugitastic",
+      "permanent": true
+    },
+    "user_2253451": {
+      "associatedAccounts": {
+        "discordAccounts": "",
+        "robloxAccounts": "2253451"
+      },
+      "latestUsername": "NitroStrike",
+      "permanent": true
+    },
+    "user_25087257": {
+      "associatedAccounts": {
+        "discordAccounts": "",
+        "robloxAccounts": "25087257"
+      },
+      "latestUsername": "RuiningYourFeelings",
+      "permanent": true
+    },
+    "user_250881573": {
+      "associatedAccounts": {
+        "discordAccounts": "",
+        "robloxAccounts": "250881573"
+      },
+      "latestUsername": "FreedomReaper",
       "permanent": true
     },
     "user_267569292": {
@@ -182,6 +278,30 @@
       "latestUsername": "Chris_Marlin",
       "permanent": true
     },
+    "user_464676572": {
+      "associatedAccounts": {
+        "discordAccounts": "",
+        "robloxAccounts": "464676572"
+      },
+      "latestUsername": "WinterErotas",
+      "permanent": true
+    },
+    "user_552922992": {
+      "associatedAccounts": {
+        "discordAccounts": "",
+        "robloxAccounts": "552922992"
+      },
+      "latestUsername": "desireliebe",
+      "permanent": true
+    },
+    "user_555150673": {
+      "associatedAccounts": {
+        "discordAccounts": "",
+        "robloxAccounts": "555150673"
+      },
+      "latestUsername": "Tarvos303",
+      "permanent": true
+    },
     "user_59282957": {
       "associatedAccounts": {
         "discordAccounts": "173104424913207297",
@@ -190,12 +310,52 @@
       "latestUsername": "Khadrak",
       "permanent": true
     },
+    "user_73349119": {
+      "associatedAccounts": {
+        "discordAccounts": "",
+        "robloxAccounts": "73349119"
+      },
+      "latestUsername": "taigahsaber",
+      "permanent": true
+    },
+    "user_742322": {
+      "associatedAccounts": {
+        "discordAccounts": "",
+        "robloxAccounts": "742322"
+      },
+      "latestUsername": "Vaktus",
+      "permanent": true
+    },
     "user_75418376": {
       "associatedAccounts": {
         "discordAccounts": "760400591452373012, 980295615332376606",
         "robloxAccounts": "75418376,267569292,111781036"
       },
       "latestUsername": "Meg_tron",
+      "permanent": true
+    },
+    "user_796967136": {
+      "associatedAccounts": {
+        "discordAccounts": "",
+        "robloxAccounts": "796967136"
+      },
+      "latestUsername": "ImpureJack",
+      "permanent": true
+    },
+    "user_889193852": {
+      "associatedAccounts": {
+        "discordAccounts": "",
+        "robloxAccounts": "889193852"
+      },
+      "latestUsername": "DarknessVeil",
+      "permanent": true
+    },
+    "user_937782176": {
+      "associatedAccounts": {
+        "discordAccounts": "",
+        "robloxAccounts": "937782176"
+      },
+      "latestUsername": "LadyPsyche",
       "permanent": true
     }
   }

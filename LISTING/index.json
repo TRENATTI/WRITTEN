@@ -45,6 +45,9 @@
     "The Genesis Imperial": {
       "groupId": 5340099
     },
+    "The Vaktovian Empire": {
+      "groupId": 131688
+    },
     "Thunder Scientific Corporation": {
       "groupId": 11577231
     },
@@ -70,9 +73,17 @@
     "user_111781036": {
       "associatedAccounts": {
         "discordAccounts": "760400591452373012, 980295615332376606",
-        "robloxAccounts": "75418376, 267569292, 111781036"
+        "robloxAccounts": "75418376,267569292,111781036"
       },
       "latestUsername": "IIDevOmqII",
+      "permanent": true
+    },
+    "user_16689252": {
+      "associatedAccounts": {
+        "discordAccounts": "670129647115304960",
+        "robloxAccounts": "16689252"
+      },
+      "latestUsername": "p3rf1n1ty",
       "permanent": true
     },
     "user_17036348": {
@@ -110,9 +121,17 @@
     "user_267569292": {
       "associatedAccounts": {
         "discordAccounts": "760400591452373012, 980295615332376606",
-        "robloxAccounts": "75418376, 267569292, 111781036"
+        "robloxAccounts": "75418376,267569292,111781036"
       },
       "latestUsername": "iixboxdude",
+      "permanent": true
+    },
+    "user_29947778": {
+      "associatedAccounts": {
+        "discordAccounts": "249942567641284600",
+        "robloxAccounts": "29947778"
+      },
+      "latestUsername": "Dohvon",
       "permanent": true
     },
     "user_32853041": {
@@ -123,12 +142,44 @@
       "latestUsername": "o7_pokey",
       "permanent": true
     },
+    "user_36087799": {
+      "associatedAccounts": {
+        "discordAccounts": "505521758481416194",
+        "robloxAccounts": "36087799"
+      },
+      "latestUsername": "Momij_iaa",
+      "permanent": true
+    },
+    "user_36827473": {
+      "associatedAccounts": {
+        "discordAccounts": "",
+        "robloxAccounts": "36827473"
+      },
+      "latestUsername": "RyzoftDev",
+      "permanent": true
+    },
     "user_400116153": {
       "associatedAccounts": {
         "discordAccounts": "678228603145814054",
         "robloxAccounts": "400116153"
       },
       "latestUsername": "pigkid721",
+      "permanent": true
+    },
+    "user_425314906": {
+      "associatedAccounts": {
+        "discordAccounts": "",
+        "robloxAccounts": "425314906"
+      },
+      "latestUsername": "ceptronn",
+      "permanent": true
+    },
+    "user_444355265": {
+      "associatedAccounts": {
+        "discordAccounts": "821953595359625236",
+        "robloxAccounts": "444355265"
+      },
+      "latestUsername": "Chris_Marlin",
       "permanent": true
     },
     "user_59282957": {
@@ -142,7 +193,7 @@
     "user_75418376": {
       "associatedAccounts": {
         "discordAccounts": "760400591452373012, 980295615332376606",
-        "robloxAccounts": "75418376, 267569292, 111781036"
+        "robloxAccounts": "75418376,267569292,111781036"
       },
       "latestUsername": "Meg_tron",
       "permanent": true

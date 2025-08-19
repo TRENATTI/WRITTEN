@@ -1,1 +1,0 @@
-//  index.json Replicator - Downloads from Firebase

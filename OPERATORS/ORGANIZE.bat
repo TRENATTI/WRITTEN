@@ -1,2 +1,2 @@
 node ORGANIZER.js
-pause
+TIMEOUT /T 600 /nobreak

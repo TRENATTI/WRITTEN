@@ -22,6 +22,15 @@ async function startApp() {
     var dataLocation = database.ref(process.env.DATA_LOCATION)
     dataLocation.once("value", function(data){
         console.log(data.val())
+        const stringedData = JSON.stringify(data, null, 4);
+
+      fs.writeFile('../LISTING/index-test.json', stringedData, 'utf8', function (err) {
+        if (err) {
+            return console.log(err);
+        }
+
+        console.log("The file was saved!");
+    }); 
     })
 }
 

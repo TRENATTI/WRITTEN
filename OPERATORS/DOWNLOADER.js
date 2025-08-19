@@ -17,7 +17,22 @@ const fs = require("fs");
 
 // FUNCTION
 
+async function startApp() {
+    var database = admin.database()
+    var dataLocation = database.ref(process.env.DATA_LOCATION)
+    dataLocation.once("value", function(data){
+        console.log(data.val())
+    })
+}
 
 // STARTUP
 
+admin.initializeApp({
+  credential: admin.credential.cert(serviceAccount),
+  databaseURL: process.env.FIREBASE_RDBURL,
+  databaseAuthVariableOverride: {
+    uid: process.env.FIREBASE_AUTHVARIABLEOVERRIDE
+  }
+});
 
+startApp()

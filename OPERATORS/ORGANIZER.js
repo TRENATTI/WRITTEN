@@ -1,6 +1,6 @@
 /*
 
-Downloads files from Firebase connected to Trenati Studio's 
+Formats files from Firebase connected to Trenati Studio's 
 public blacklist data used to ban inviduals in our games.
 
 */

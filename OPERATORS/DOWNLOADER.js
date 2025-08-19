@@ -24,7 +24,7 @@ async function startApp() {
         console.log(data.val())
         const stringedData = JSON.stringify(data, null, 4);
 
-      fs.writeFile('../LISTING/index-test.json', stringedData, 'utf8', function (err) {
+      fs.writeFile('../LISTING/download.json', stringedData, 'utf8', function (err) {
         if (err) {
             return console.log(err);
         }

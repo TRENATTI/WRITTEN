@@ -22,9 +22,9 @@ var parsedObject = JSON.parse(data)
             parsedObject.users[key].associatedAccounts.robloxAccounts = parsedObject.users[key].associatedAccounts.robloxAccounts.replace(/[^0-9,]/g, '')
             parsedObject.users[key].associatedAccounts.discordAccounts = parsedObject.users[key].associatedAccounts.discordAccounts.replace(/[^0-9,]/g, '')
             if (parsedObject.users[key].permanent == true) {
-                parsedObject.users[key].expiary = -1
+                parsedObject.users[key].expiry = -1
             } else {
-                parsedObject.users[key].expiary = "Tier Unset"
+                parsedObject.users[key].expiry = "Tier Unset"
             }
         }
  }

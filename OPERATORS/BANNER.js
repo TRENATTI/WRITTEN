@@ -24,13 +24,14 @@ let xCsrfToken = ""
 
 var parsedObject = JSON.parse(user_data)
 var GroupIds = JSON.parse(group_data)
+
  for (const key in parsedObject.users) {
      if (parsedObject.users.hasOwnProperty(key)) { 
         const ids = parsedObject.users[key].associatedAccounts.robloxAccounts = parsedObject.users[key].associatedAccounts.robloxAccounts.split(',')
         for (const UserId in ids) { 
             for (const GroupId in GroupIds) {
                 var GET_URL = `https://groups.roblox.com/v1/groups/${GroupId}/bans`
-                var POST_URL =`https://groups.roblox.com/v1/groups/${GroupId}/bans/${ids[UserId]}`
+                var POST_URL =`https://groups.roblox.com/v1/groups/${GroupIds[GroupId]}/bans/${ids[UserId]}`
                 var DELETE_URL =`https://groups.roblox.com/v1/groups/${GroupId}/bans/${UserId}`
 
                 const rbxRequest = async (verb, url, body) => {

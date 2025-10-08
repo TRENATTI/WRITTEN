@@ -24,6 +24,7 @@ let xCsrfToken = ""
 
 var parsedObject = JSON.parse(user_data)
 var GroupIds = JSON.parse(group_data)
+let Interger = 1
 
  for (const key in parsedObject.users) {
      if (parsedObject.users.hasOwnProperty(key)) { 
@@ -59,7 +60,8 @@ var GroupIds = JSON.parse(group_data)
                 console.log(response.status)
                 
                 const banresponse = await rbxRequest("POST", POST_URL)
-                console.log(response.status)
+                console.log(response.status,Interger,UserId)
+                Interger += 1
            }
         }
     }

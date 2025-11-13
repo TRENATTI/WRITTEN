@@ -65,6 +65,11 @@
             "permanent": false,
             "rankId": 1
         },
+        "group_17109805": {
+            "groupId": 17109805,
+            "permanent": false,
+            "rankId": 1
+        },
         "group_2969248": {
             "groupId": 2969248,
             "permanent": false,
@@ -183,6 +188,14 @@
                 "robloxAccounts": "1262552"
             },
             "latestUsername": "e2s_demon",
+            "permanent": true
+        },
+        "user_13095127": {
+            "associatedAccounts": {
+                "discordAccounts": "",
+                "robloxAccounts": "13095127"
+            },
+            "latestUsername": "Voidableness",
             "permanent": true
         },
         "user_1480123": {
@@ -361,6 +374,14 @@
             "latestUsername": "st00",
             "permanent": true
         },
+        "user_288314097": {
+            "associatedAccounts": {
+                "discordAccounts": "",
+                "robloxAccounts": "288314097,3350474556"
+            },
+            "latestUsername": "lj100lj",
+            "permanent": true
+        },
         "user_29947778": {
             "associatedAccounts": {
                 "discordAccounts": "249942567641284600",
@@ -383,6 +404,14 @@
                 "robloxAccounts": "32853041"
             },
             "latestUsername": "o7_pokey",
+            "permanent": true
+        },
+        "user_3350474556": {
+            "associatedAccounts": {
+                "discordAccounts": "",
+                "robloxAccounts": "288314097,3350474556"
+            },
+            "latestUsername": "maaagdump",
             "permanent": true
         },
         "user_3365309097": {
@@ -439,6 +468,14 @@
                 "robloxAccounts": "400116153"
             },
             "latestUsername": "pigkid721",
+            "permanent": true
+        },
+        "user_40415970": {
+            "associatedAccounts": {
+                "discordAccounts": "364095777846591510",
+                "robloxAccounts": "40415970"
+            },
+            "latestUsername": "craz1est",
             "permanent": true
         },
         "user_425314906": {

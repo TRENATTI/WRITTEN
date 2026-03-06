@@ -60,7 +60,7 @@ let Interger = 1
                 console.log(response.status)
                 
                 const banresponse = await rbxRequest("POST", POST_URL)
-                console.log(response.status,Interger,UserId)
+                console.log(response.status,Interger,ids[UserId], GroupIds[GroupId])
                 Interger += 1
            }
         }
